@@ -1,0 +1,6 @@
+.env
+inputs/
+tasks/
+.venv/
+__pycache__
+solutions
