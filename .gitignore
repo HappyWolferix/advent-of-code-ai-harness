@@ -4,3 +4,6 @@ tasks/
 .venv/
 __pycache__
 solutions
+
+# transient AI timing sessions (see scripts/ai_log.py)
+benchmarks/.sessions.json
